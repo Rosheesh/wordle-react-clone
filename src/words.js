@@ -1,0 +1,22 @@
+export const WORDS = [
+  'CRANE',
+  'PLANT',
+  'SHEEP',
+  'BRICK',
+  'GHOST',
+  'MOUSE',
+  'TRAIN',
+  'LIGHT',
+  'CLOUD',
+  'SHARE',
+  'STONE',
+  'GRAPE',
+  'BRAIN',
+  'WATER',
+  'FLAME',
+  'SOUND',
+  'HOUSE',
+  'SPOON',
+  'NIGHT',
+  'WORLD'
+];
